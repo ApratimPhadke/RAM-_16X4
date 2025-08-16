@@ -127,10 +127,6 @@ endmodule
 ## ⚙️ Synthesis Results
 
 * **Tool**: Vivado Synthesis
-* **Utilization**:
-
-  * LUTs: XX
-  * Flip-Flops: XX
 * <img width="1570" height="694" alt="synthesis" src="https://github.com/user-attachments/assets/03ec5318-b99b-4c35-930d-5b3915d97b02" />
 
 
@@ -151,7 +147,7 @@ endmodule
 
 
 * Slack: Positive ✅
-* Maximum Frequency: XX MHz
+
 
 ---
 
@@ -161,7 +157,7 @@ endmodule
 
 
 * Static Power: 0.073 mW 
-* Dynamic Power: XX mW
+* Dynamic Power: 1.041 mW
 
 ---
 
