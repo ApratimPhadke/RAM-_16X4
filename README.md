@@ -170,7 +170,7 @@ endmodule
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/<your-username>/RAM16x4.git
+   git clone https://github.com/ApratimPhadke/RAM16x4.git
    cd RAM16x4
    ```
 2. Open in **Xilinx Vivado**.
