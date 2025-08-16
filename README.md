@@ -160,7 +160,7 @@ endmodule
 <img width="1854" height="1168" alt="power" src="https://github.com/user-attachments/assets/77756b93-3849-4ecf-9b18-a5cc26552318" />
 
 
-* Static Power: XX mW
+* Static Power: 0.073 mW 
 * Dynamic Power: XX mW
 
 ---
