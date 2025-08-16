@@ -203,4 +203,3 @@ endmodule
 
 ---
 
-Would you like me to make this README **markdown-styled with badges, emojis, and sections auto-linked** (like modern GitHub repos), or keep it **clean and professional**?
