@@ -38,10 +38,6 @@ It is designed, simulated, and synthesized using **Xilinx Vivado Design Suite**.
 
   * `data_out` – 4-bit output data
 
-### 🔹 Block Diagram
-
-*(Insert your schematic.png here)*
-
 ---
 
 ## 💻 Verilog Code
