@@ -37,6 +37,9 @@ It is designed, simulated, and synthesized using **Xilinx Vivado Design Suite**.
 * **Output**:
 
   * `data_out` – 4-bit output data
+ 
+    <img width="2048" height="2048" alt="Gemini_Generated_Image_u1frpru1frpru1fr" src="https://github.com/user-attachments/assets/c892baf5-b79c-4b06-8425-01a31e392afd" />
+
 
 ---
 
